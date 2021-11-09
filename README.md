@@ -21,6 +21,7 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/gpr8qD_Pqb_p6v0_iZwtnax00rcpfikKYQ6siLNr5xA/https/i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div><br/>
 ##-🌐 Banco de dados dominantes:
 <div><br>
