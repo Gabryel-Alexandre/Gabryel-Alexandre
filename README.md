@@ -1,8 +1,8 @@
 ### Gabryel Alexandre 👋
 
-- 🔭 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Sou Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo JavaScript, Node.Js e React
-- 👯 Quero colaborar em qualquer projeto que possa ajudar
+- 👯 Quero colaborar em qualquer projeto que possa ajudar! Me identifico mais com o backend, porém quero me tornar fullstack.
 - 💬 Pergunte-me?
 <div align="center">
   <a href="https://github.com/Gabryel-Alexandre">
