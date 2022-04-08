@@ -1,5 +1,6 @@
 ### Gabryel Alexandre 👋
 
+- 🔭 Sou Estagiário em Quality Assurance pela Empresa Klok Tech
 - 🔭 Sou Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo JavaScript, Node.Js e React
 - 👯 Quero colaborar em qualquer projeto que possa ajudar! Me identifico mais com o backend, porém quero me tornar fullstack.
